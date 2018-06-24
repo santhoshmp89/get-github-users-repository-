@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import GithubCreateIssue from "github-create-issue";
 
-const API_KEY = { 'token' : "0afe25d5f3e9a336743dd669d0b6a107f5854565" };
+
 
 export default class IssueForm extends React.Component {
     constructor() {
